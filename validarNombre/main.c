@@ -7,7 +7,7 @@ int validarChar(char ingresado[257],char *resultado[]);
 
 int main()
 {
-    /*char nombre[257];
+    char nombre[257];
     char buffer[257];
     int cantCarac;
     int i;
@@ -37,21 +37,13 @@ int main()
         {
             strncpy(nombre,buffer,sizeof(nombre));
             printf("%s",nombre);
-        }*/
+        }
 
-    char buffer[257];
-    printf("Ingrese su nombre: ");
-    fgets(buffer,sizeof(buffer),stdin);
-    char resultado [257];
-
-    int validarChar(buffer,resultado);
-
-    printf(resultado);
 
     return 0;
 }
 
-
+/*
 int validarChar(char ingresado[257],char *resultado[])
 {
 
@@ -84,6 +76,6 @@ int validarChar(char ingresado[257],char *resultado[])
             printf("%s",resultado);
         }
 
-}
+}*/
 
 
