@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555462314 source:/home/alumno/Julieta/PrimerRepo/Programanuevo_clase8/utn.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1555460903 /home/alumno/Julieta/PrimerRepo/Programanuevo_clase8/utn.h
+
+1555460903 source:/home/alumno/Julieta/PrimerRepo/Programanuevo_clase8/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
