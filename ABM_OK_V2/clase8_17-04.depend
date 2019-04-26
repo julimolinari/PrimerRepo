@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1555548065 source:/home/alumno/Descargas/Laboratorio-master (1)/clase8_17-04/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_string.h"
+	"empleado.h"
+
+1555549243 h"
+
+1555546090 /home/alumno/Descargas/Laboratorio-master (1)/clase8_17-04/empleado.h
+
+1555548458 source:/home/alumno/Descargas/Laboratorio-master (1)/clase8_17-04/funciones_string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones_string.h"
+
+1556132989 _string.h"
+
+1555548458 /home/alumno/Descargas/Laboratorio-master (1)/clase8_17-04/funciones_string.h
+	"empleado.h"
+
+1555548457 source:/home/alumno/Descargas/Laboratorio-master (1)/clase8_17-04/main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"funciones_string.h"
+
+1556132253 source:c:\users\sashaoriana\documents\utn2019\laboratorio\clase8_17-04\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones_string.h"
+	"empleado.h"
+
+1555549243 c:\users\sashaoriana\documents\utn2019\laboratorio\clase8_17-04\funciones_string.h
+	"empleado.h"
+
+1556131046 c:\users\sashaoriana\documents\utn2019\laboratorio\clase8_17-04\empleado.h
+
+1555566769 source:c:\users\sashaoriana\documents\utn2019\laboratorio\clase8_17-04\funciones_string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones_string.h"
+
+1556132989 source:c:\users\sashaoriana\documents\utn2019\laboratorio\clase8_17-04\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"funciones_string.h"
+
+1556134491 source:/home/alumno/Documentos/Laboratorio-master (1)/Laboratorio-master/clase8_17-04/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones_string.h"
+	"empleado.h"
+
+1556134491 /home/alumno/Documentos/Laboratorio-master (1)/Laboratorio-master/clase8_17-04/funciones_string.h
+	"empleado.h"
+
+1556134491 /home/alumno/Documentos/Laboratorio-master (1)/Laboratorio-master/clase8_17-04/empleado.h
+
+1556134491 source:/home/alumno/Documentos/Laboratorio-master (1)/Laboratorio-master/clase8_17-04/funciones_string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones_string.h"
+
+1556134491 source:/home/alumno/Documentos/Laboratorio-master (1)/Laboratorio-master/clase8_17-04/main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"funciones_string.h"
+
+1556141972 source:/home/profesor/Descargas/ABM_OK/clase8_17-04/funciones_string.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones_string.h"
+
+1556141945 /home/profesor/Descargas/ABM_OK/clase8_17-04/funciones_string.h
+	"empleado.h"
+
+1556141704 /home/profesor/Descargas/ABM_OK/clase8_17-04/empleado.h
+
+1556141704 source:/home/profesor/Descargas/ABM_OK/clase8_17-04/main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"funciones_string.h"
+
+1556141895 source:/home/profesor/Descargas/ABM_OK/clase8_17-04/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones_string.h"
+	"empleado.h"
+
+1556230507 source:c:\users\alumno\desktop\abm_ok_v2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones_string.h"
+	"empleado.h"
+
+1556141944 c:\users\alumno\desktop\abm_ok_v2\funciones_string.h
+	"empleado.h"
+
+1556141704 c:\users\alumno\desktop\abm_ok_v2\empleado.h
+
