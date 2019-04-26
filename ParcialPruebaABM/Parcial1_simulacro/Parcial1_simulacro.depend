@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556234646 source:c:\users\alumno\desktop\parcialpruebaabm\parcial1_simulacro\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1556234646 c:\users\alumno\desktop\parcialpruebaabm\parcial1_simulacro\funciones.h
+
+1556238575 source:c:\users\alumno\desktop\parcialpruebaabm\parcial1_simulacro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pantalla.h"
+	"funciones.h"
+
+1556238974 c:\users\alumno\desktop\parcialpruebaabm\parcial1_simulacro\pantalla.h
+
+1556238982 source:c:\users\alumno\desktop\parcialpruebaabm\parcial1_simulacro\pantalla.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"pantalla.h"
+	"funciones.h"
+
