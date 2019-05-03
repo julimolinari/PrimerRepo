@@ -1,0 +1,12 @@
+hacer parcial-
+entidad asociado(+ is empty(o un estado), id, nombre, apellido, dni, edad)
+entidad llamada ( IDasociado, motivo, IDllamada,tiempo,IDambulancia)
+motivos 0,1,2
+estados 0,1
+
+informes:
+nos conviene entidad ambulacia?
+1-llamados en un array, recorrerlo y cada vez, me fijo el açid y acumulo sus llamados o recorro elarray de asociados
+y en una funcion que me diga cuantas llamadas por asociado, que devuelva el maximo.
+2-motivos: recorrrer el array de llamadaas filtrando por el motivos 1,2,0,.. acumulador de motivos.ver que informo.
+3-mas demora el motivo: recorrer el array de llamadas por un motivo y acumularlas cant de llamadas por un lado y el tiempo por otro lado(los dividos y tengo el tiempo de atencion x motivo).paso por todos los motivos.
